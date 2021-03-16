@@ -1,0 +1,2 @@
+# flujoParcial
+parcial
